@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1657595388 source:c:\users\fizz\desktop\wps_synchronize_folder\c++\final\field.cpp
+	"field.h"
+	"grid.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1657595528 c:\users\fizz\desktop\wps_synchronize_folder\c++\final\field.h
+	"grid.h"
+
+1657681740 source:c:\users\fizz\desktop\wps_synchronize_folder\c++\final\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	<windows.h>
+	"game.h"
+	"field.h"
+
+1657682206 c:\users\fizz\desktop\wps_synchronize_folder\c++\final\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+	"field.h"
+
+1655723618 c:\users\fizz\desktop\wps_synchronize_folder\c++\final\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1657604646 c:\users\fizz\desktop\wps_synchronize_folder\c++\final\snake.h
+	<vector>
+	"field.h"
+
+1657157872 source:c:\users\fizz\desktop\wps_synchronize_folder\c++\final\main.cpp
+	"game.h"
+	<Windows.h>
+	<mmsystem.h>
+	<dsound.h>
+
+1657604600 source:c:\users\fizz\desktop\wps_synchronize_folder\c++\final\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+	"field.h"
+
+1657595388 source:c:\users\fizz\desktop\wps_synchronize_folder\c++\final2\field.cpp
+	"field.h"
+	"grid.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1657595528 c:\users\fizz\desktop\wps_synchronize_folder\c++\final2\field.h
+	"grid.h"
+
+1657782260 source:c:\users\fizz\desktop\wps_synchronize_folder\c++\final2\main.cpp
+	"game.h"
+	<Windows.h>
+	<mmsystem.h>
+	<dsound.h>
+
+1657682206 c:\users\fizz\desktop\wps_synchronize_folder\c++\final2\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+	"field.h"
+
+1655723618 c:\users\fizz\desktop\wps_synchronize_folder\c++\final2\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1657604646 c:\users\fizz\desktop\wps_synchronize_folder\c++\final2\snake.h
+	<vector>
+	"field.h"
+
+1657604600 source:c:\users\fizz\desktop\wps_synchronize_folder\c++\final2\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+	"field.h"
+
+1657782534 source:c:\users\fizz\desktop\wps_synchronize_folder\c++\final2\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	<windows.h>
+	"game.h"
+	"field.h"
+
+1657595388 source:c:\users\fengy\desktop\final2\field.cpp
+	"field.h"
+	"grid.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1657595528 c:\users\fengy\desktop\final2\field.h
+	"grid.h"
+
+1659542646 source:c:\users\fengy\desktop\final2\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	<windows.h>
+	"game.h"
+	"field.h"
+
+1657682208 c:\users\fengy\desktop\final2\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+	"field.h"
+
+1655723618 c:\users\fengy\desktop\final2\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1657604646 c:\users\fengy\desktop\final2\snake.h
+	<vector>
+	"field.h"
+
+1659542620 source:c:\users\fengy\desktop\final2\main.cpp
+	"game.h"
+	<Windows.h>
+	<dsound.h>
+
+1657604600 source:c:\users\fengy\desktop\final2\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+	"field.h"
+
